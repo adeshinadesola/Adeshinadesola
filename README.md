@@ -2,7 +2,7 @@
 <h3 align="center">Transforming Ideas into Reality with Software.</h3>
 <img align=“left” "width=“200” height="200" src="https://tinyurl.com/5b2asbrb">
 
-- 🔭 I’m currently working on [Codesticth](www.codesticth.com)
+- 🔭 I’m currently working on [Codesticth](https://codesticth.com/)
 
 - 🌱 I’m currently learning **AI,AR**
 
