@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeshina</h1>
 <h3 align="center">Transforming Ideas into Reality with Software.</h3>
-<img align=“center” "width=“200” height="200" src="https://tinyurl.com/bdemc36c">
 
 - 🔭 I’m currently working on [Codesticth](https://codesticth.com/)
 
