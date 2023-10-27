@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📝 I regularly write articles on [https://hashnode.com/](https://hashnode.com/)
+- 📝 I regularly write articles on [https://hashnode.com/@Adeshinadesola)
 
 - 💬 Ask me about **machine learning, software engineering**
 
