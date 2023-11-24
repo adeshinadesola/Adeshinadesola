@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **adesolaadeshina112@outlook.com**
 
-- 📄 Know about my experiences [https://bold.pro/my/adeshina-adesola-230630212733](https://bold.pro/my/adeshina-adesola-230630212733)
-
+- 📄 Know about my experiences
 - ⚡ Fun fact **Did you know that the first computer programmer in history was a woman named Ada Lovelace?**
 
 <h3 align="left">Connect with me:</h3>
