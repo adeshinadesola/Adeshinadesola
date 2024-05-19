@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Adeshina</h1>
 <h3 align="center">Transforming Ideas into Reality with Software.</h3>
+
 - 📝 I regularly write articles on [https://hashnode.com/@Adeshinadesola)
+  
 - 💬 Ask me about **machine learning, software engineering**
+  
 - 📫 How to reach me **adesolaadeshina112@outlook.com**
+  
 - 📄 Know about my [Experience ](link_to_your_resume.docx)
+  
 - ⚡ Fun fact **Did you know that the first computer programmer in history was a woman named Ada Lovelace?**
 
 <h3 align="left">Connect with me:</h3>
