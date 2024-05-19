@@ -29,6 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/app/dashboard"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/adesolaadew" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeshinadesola&show_icons=true&locale=en&layout=compact" alt="adeshinadesola" /></p>
+<p><img align="left" src="https://user-images.githubusercontent.com/400362/185064492-3c1876cb-c304-44f3-a233-05dbbb9a9001.png" alt="Your Custom Image" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeshinadesola&" alt="adeshinadesola" /></p>
