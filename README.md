@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeshina</h1>
 <h3 align="center">Transforming Ideas into Reality with Software.</h3>
 
-- 🔭 I’m currently working on [Codesticth](https://codesticth.com/)
-
 - 📝 I regularly write articles on [https://hashnode.com/@Adeshinadesola)
 
 - 💬 Ask me about **machine learning, software engineering**
