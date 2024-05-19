@@ -6,8 +6,8 @@
 - 💬 Ask me about **machine learning, software engineering**
 
 - 📫 How to reach me **adesolaadeshina112@outlook.com**
-
-- 📄 Know about my experiences[Experience ](link_to_your_resume.docx)
+- 📄 Know about my <a href="link_to_your_resume.docx">Experience</a>
+- 📄 Know about my [Experience ](link_to_your_resume.docx)
 - ⚡ Fun fact **Did you know that the first computer programmer in history was a woman named Ada Lovelace?**
 
 <h3 align="left">Connect with me:</h3>
