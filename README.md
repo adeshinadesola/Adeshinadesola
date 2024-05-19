@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adesolaadeshina112@outlook.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences[Experience ](link_to_your_resume.docx)
 - ⚡ Fun fact **Did you know that the first computer programmer in history was a woman named Ada Lovelace?**
 
 <h3 align="left">Connect with me:</h3>
