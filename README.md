@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Codesticth](https://codesticth.com/)
 
-- 🌱 I’m currently learning **machine learning**
-
 - 📝 I regularly write articles on [https://hashnode.com/@Adeshinadesola)
 
 - 💬 Ask me about **machine learning, software engineering**
